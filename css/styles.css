@@ -1,0 +1,42 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+
+
+}
+
+h1{
+  
+	font-family: 'Atomic Age', cursive;
+	color: #FF3030;
+	text-transform: uppercase;
+	font-size: 80px;
+
+  
+}
+
+h3{
+  
+	font-family: 'Atomic Age', cursive;
+	font-size: 25px;
+	color: #FF3030;
+	text-transform: uppercase;
+	margin-top: 70px;
+	padding: 15px 0 15px 0;
+  
+}
+
+
+
+body {
+
+	background: url("../img/squared_metal.png");
+	font-family: 'Roboto Slab', serif;
+	color: #104E8B;
+	font-weight: 400;
+	padding: 15px 30px 15px 30px;
+
+  
+}
